@@ -7,7 +7,7 @@
 
 ![Imagem](demo.png)
 
-# 100% Responsive Personal Portfolio Website Using HTML CSS & JavaScript
+# Responsive Personal Portfolio Website Using HTML CSS
 Aqui tem acesso a alguns projetos implementados um pouco mais sobre o portfolio.
 
 # Projeto HTML 5 - CSS3
