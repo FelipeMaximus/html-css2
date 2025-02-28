@@ -14,5 +14,5 @@ Aqui tem acesso a alguns projetos implementados um pouco mais sobre o portfolio.
 
 ## Deploy on Vercel
 
-[Click aqui](https://portfolio-fullresponsive.netlify.app/) para ver a live preview deste projeto.
+[Click aqui](https://felipemaximus.github.io/html-css2/) para ver a live preview deste projeto.
  
